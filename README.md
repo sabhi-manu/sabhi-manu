@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Sabhimanu Patel
 
-<!--
-**sabhi-manu/sabhi-manu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+Passionate Full Stack Developer with hands-on experience building scalable and secure web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy solving real-world problems and building efficient, production-level applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Science Graduate from Barkatullah University, Bhopal
+- 💼 Former Full Stack Developer Intern at Sheryians Coding School
+- 🌱 Currently learning TypeScript and Advanced Backend Architecture
+- 🔐 Experienced in JWT Authentication, REST APIs, and Clean Architecture
+- ⚡ Love building scalable full-stack applications
+- 🎯 Goal: To become a professional Full Stack Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Redux Toolkit
+- Tailwind CSS, Bootstrap
+
+### Backend
+- Node.js, Express.js
+- REST API Development
+- JWT Authentication
+
+### Database
+- MongoDB, Mongoose
+
+### Tools & Platforms
+- Git, GitHub
+- Postman, VS Code
+- Vercel, Netlify
+- Cloudinary, ImageKit
+
+## 💼 Internship Experience
+
+**Full Stack Developer Intern**
+Sheryians Coding School (Nov 2025 – Jan 2026)
+---
+
+## 🎯 Current Focus
+
+- Improving backend architecture skills
+- Building production-level MERN applications
+- Preparing for Full Stack Developer roles
+
+---
+
