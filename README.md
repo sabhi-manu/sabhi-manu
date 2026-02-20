@@ -19,24 +19,11 @@ Passionate Full Stack Developer with hands-on experience building scalable and s
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Redux Toolkit
-- Tailwind CSS, Bootstrap
-
-### Backend
-- Node.js, Express.js
-- REST API Development
-- JWT Authentication
-
-### Database
-- MongoDB, Mongoose
-
-### Tools & Platforms
-- Git, GitHub
-- Postman, VS Code
-- Vercel, Netlify
-- Cloudinary, ImageKit
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code  
+**Deployment:** Vercel, Netlify  
 
 ## 💼 Internship Experience
 
